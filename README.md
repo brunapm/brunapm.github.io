@@ -2,6 +2,9 @@
 
 ## This repository contains my portfolio, based on a [Gatsby Starter](https://www.gatsbyjs.com/starters/cobidev/gatsby-simplefolio) and deployed to GitHub Pages continuously using [GitHub Actions](https://github.com/marketplace/actions/gatsby-publish).
 
+### Status
+[![Gatsby Publish Actions Status](https://github.com/brunapm/brunapm.github.io/workflows/Gatsby%20Publish/badge.svg)](https://brunapm.github.io)
+
 ### Author
 
 <img src="https://avatars1.githubusercontent.com/u/65819100?s=460&u=418b9bd94f4f9bcd2f3494bfd7b3a8ab8fd08662&v=4" width="100px;" alt=""/>
