@@ -79,6 +79,17 @@ export const projectsData = [
     url: 'https://brunapm-twitter-clone.netlify.app/',
     repo: 'https://github.com/brunapm/Flexbox-Twitter', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'Portfolio.png',
+    title: 'This Website',
+    info:
+      'This portfolio was created using a starter example from Gatsby. The starter is called gatsby-simplefolio, and the original author is Jacobo Martínez (@cobidev).',
+    info2:
+      "It is deployed to GitHub Pages using GitHub Actions, automatically deploying everytime there's a new commit to the repository.",
+    url: 'https://brunapm.github.io/',
+    repo: 'https://github.com/brunapm/brunapm.github.io', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
