@@ -81,6 +81,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'GitHub-Explorer.png',
+    title: 'GitHub Explorer',
+    info: 'GitHub Explorer is a quick way to get information on GitHub Repositories.',
+    info2: 'The data is retrieved from the GitHub API.',
+    url: 'https://github-explorer-brunapm.netlify.app/',
+    repo: 'https://github.com/brunapm/GitHub-Explorer', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'Portfolio.png',
     title: 'This Website',
     info:
