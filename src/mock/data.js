@@ -60,16 +60,16 @@ export const projectsData = [
     url: 'https://www.reumatologistamaringa.com.br/',
     repo: '', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: 'LinkedIn Interface Clone',
-    info:
-      "I created this Interface Clone based on LinkedIn's homepage in an effort to learn more about componentization and Storybook.js.",
-    info2: '',
-    url: '',
-    repo: 'https://github.com/brunapm/linkedin-ui-clone', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'project.jpg',
+  //   title: 'LinkedIn Interface Clone',
+  //   info:
+  //     "I created this Interface Clone based on LinkedIn's homepage in an effort to learn more about componentization and Storybook.js.",
+  //   info2: '',
+  //   url: '',
+  //   repo: 'https://github.com/brunapm/linkedin-ui-clone', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'Twitter.png',
