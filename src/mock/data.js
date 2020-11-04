@@ -25,7 +25,7 @@ export const aboutData = {
     'I love the power of coding and I believe the key to deliver the best product to a client is being passionate about what you do.',
   paragraphThree:
     'I also love to study new technologies and to get to know different people and places.',
-  resume: 'https://www.overleaf.com/read/csrfccmmgxjv', // if no resume, the button will not show up
+  resume: 'https://docs-brunamonarin.s3.us-east-2.amazonaws.com/Resume_Bruna_Monarin.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
