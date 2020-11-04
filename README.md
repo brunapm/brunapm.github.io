@@ -1,9 +1,30 @@
 # My Portfolio
+[![Gatsby Publish Actions Status](https://github.com/brunapm/brunapm.github.io/workflows/Gatsby%20Publish/badge.svg)](https://brunapm.github.io)
+![GitHub language count](https://img.shields.io/github/languages/count/brunapm/brunapm.github.io)
+![GitHub top language](https://img.shields.io/github/languages/top/brunapm/brunapm.github.io)
+![Lines of code](https://img.shields.io/tokei/lines/github/brunapm/brunapm.github.io)
+![GitHub repo size](https://img.shields.io/github/repo-size/brunapm/brunapm.github.io)
+![GitHub last commit](https://img.shields.io/github/last-commit/brunapm/brunapm.github.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## This repository contains my portfolio, based on a [Gatsby Starter](https://www.gatsbyjs.com/starters/cobidev/gatsby-simplefolio) and deployed to GitHub Pages continuously using [GitHub Actions](https://github.com/marketplace/actions/gatsby-publish).
+#### This repository contains my website portfolio.
+### About
+[My portfolio](https://brunapm.github.io) contains information about me, my projects and how to contact me.
+
+It's based on a [Gatsby Starter](https://www.gatsbyjs.com/starters/cobidev/gatsby-simplefolio) and deployed continuously to GitHub Pages using [GitHub Actions](https://github.com/marketplace/actions/gatsby-publish).
 
 ### Status
-[![Gatsby Publish Actions Status](https://github.com/brunapm/brunapm.github.io/workflows/Gatsby%20Publish/badge.svg)](https://brunapm.github.io)
+The website is functional and deployed to GitHub Pages.
+
+### Technologies
+
+The following tools were used to build this project:
+
+- [Gatsby](https://www.gatsbyjs.com/)
+- [React](https://pt-br.reactjs.org/)
+- [Javascript](https://developer.oracle.com/ar/javascript/)
+- [Sass](https://sass-lang.com/)
+- [uiGradients](https://uigradients.com/)
 
 ### Author
 
