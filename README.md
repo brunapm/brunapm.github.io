@@ -9,7 +9,7 @@
 
 #### This repository contains my website portfolio.
 ### About
-My portfolio contains information about me, my projects and how to contact me.
+[My portfolio](https://brunapm.github.io) contains information about me, my projects and how to contact me.
 
 It's based on a [Gatsby Starter](https://www.gatsbyjs.com/starters/cobidev/gatsby-simplefolio) and deployed continuously to GitHub Pages using [GitHub Actions](https://github.com/marketplace/actions/gatsby-publish).
 
