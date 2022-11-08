@@ -115,7 +115,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/bruna-de-paula-monarin/',
+      url: 'https://www.linkedin.com/in/bruna-de-pm/',
     },
     {
       id: nanoid(),
